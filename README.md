@@ -40,38 +40,36 @@ No internet connection is required.
 
 ## 🗂 Project Structure
 
+```
 lib/
 ├── models/
 ├── providers/
 ├── screens/
 ├── widgets/
 └── core/
-
+```
 ---
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/Theprogrammizz/notes-todo-app.git
-
+```
+git clone https://github.com/Theprogrammizz/timely-notes-todo-app.git
+```
 ### 2️⃣ Install dependencies
+```
 flutter pub get
-
+```
 ### 3️⃣ Run the app
+```
 flutter run
-
+```
 ---
 
 ## 🔒 Privacy Policy
 
 Timely does not collect, store, or share any personal data.  
 All information remains stored locally on the user's device.
-
----
-
-## 👨‍💻 Developer
-
-Built with ❤️ using Flutter.
 
 ---
 
