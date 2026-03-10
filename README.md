@@ -6,6 +6,15 @@
 Timely is a clean and minimal productivity app built with Flutter.  
 It helps users manage daily notes and todos in a simple, distraction-free interface with full offline support.
 
+### ⚠️ Archived Learning Project
+
+This repository is an early learning project.
+Check out my improved version here:
+
+👉 https://github.com/Theprogrammizz/ticktask-flutter
+
+A clean and minimal Todo application built using Flutter and Hive for local storage.
+
 ---
 
 ## ✨ Features
